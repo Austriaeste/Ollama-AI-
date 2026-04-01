@@ -58,7 +58,7 @@ npm install axios
 ### 6. agent.js の作成
 `ollama-agent` フォルダ内に `agent.js` という名前で以下のコードを保存してください。
 
-（ここに最新の改善版コードを貼る場所）
+[agent.js](https://github.com/Austriaeste/Ollama-AI-/blob/main/agent.js)
 
 ### 7. 実行例
 ```powershell
