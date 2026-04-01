@@ -60,9 +60,14 @@ npm install axios
 ### 7. 実行例
 ```powershell
 # サーバーが起動している状態で
-node agent.js "こんにちは"
-node agent.js "ネットワークの構成図を探して"
-node agent.js "構成図を開いて"
+PS C:\Users\austr\ollama-agent> node agent.js "こんにちは"
+
+=== ユーザー入力: こんにちは ===
+
+
+=== 最終回答 ===
+こんにちはです。
+PS C:\Users\austr\ollama-agent>
 ```
 
 ## 今後の改善予定
