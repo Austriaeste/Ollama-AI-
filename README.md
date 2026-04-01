@@ -51,13 +51,10 @@ mkdir ollama-agent
 cd ollama-agent
 npm init -y
 npm install axios
-
-# agent.js ファイルを作成（下記のコードをコピー）
 ```
 
 ### 6. agent.js の作成
 `ollama-agent` フォルダ内に `agent.js` という名前で以下のコードを保存してください。
-
 [agent.js](https://github.com/Austriaeste/Ollama-AI-/blob/main/agent.js)
 
 ### 7. 実行例
